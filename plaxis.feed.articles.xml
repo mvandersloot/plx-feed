@@ -7,7 +7,14 @@
     <description>Informing on the latest of PLAXIS</description>
     <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Mon, 03 Mar 2025 13:25:32 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 14:54:11 +0100</lastBuildDate>
+    <item>
+      <title>Practical Example: Tunnel support analysis for a 250 m-deep tunnel in weak rock</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0040592]]></link>
+      <description>This articles shows a practical application using PLAXIS for the calculation of the tunnel deformation and the effectiveness of the proposed tunnel support. It has been inspired by an article from Hoek (1998).</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0040592]]></guid>
+      <pubDate>Mon, 03 Feb 2025 12:20:00 +0100</pubDate>
+    </item>
     <item>
       <title>Finite element modelling of a tailings dam using the Clay and Sand Model</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article&sysparm_article=KB0042975]]></link>
