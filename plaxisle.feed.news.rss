@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="https://www.seequent.com/products-solutions/plaxis-le/" type="application/rss+xml"/>
+    <title>PLAXIS LE News Feed</title>
+    <link>https://www.seequent.com/products-solutions/plaxis-le/</link>
+    <description>Informing on the latest PLAXIS LE News</description>
+    <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <lastBuildDate>Tue, 04 Mar 2025 13:38:09 +0100</lastBuildDate>
+    <item>
+      <title>The final update of PLAXIS LE and PLAXIS Designer: 21.08</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=a42e2c601b9e56907171ff7e034bcbdf]]></link>
+      <description>We are pleased to announce the final PLAXIS LE release: PLAXIS LE 21.08</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=a42e2c601b9e56907171ff7e034bcbdf]]></guid>
+      <pubDate>Sat, 30 Nov 2024 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>PLAXIS LE Product Support and Retirement</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article&sysparm_article=KB0107796]]></link>
+      <description>Following the PLAXIS LE and PLAXIS Designer retirement announcement in June 2023 this page provides information for migration and FAQs</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article&sysparm_article=KB0107796]]></guid>
+      <pubDate>Fri, 29 Nov 2024 08:30:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>

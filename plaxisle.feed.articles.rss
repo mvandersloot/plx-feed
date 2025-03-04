@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="https://www.seequent.com/products-solutions/plaxis-le/" type="application/rss+xml"/>
+    <title>PLAXIS LE Informative Articles Feed</title>
+    <link>https://www.seequent.com/products-solutions/plaxis-le/</link>
+    <description>Informing on the latest PLAXIS LE Informative Articles</description>
+    <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <lastBuildDate>Tue, 04 Mar 2025 13:38:09 +0100</lastBuildDate>
+  </channel>
+</rss>

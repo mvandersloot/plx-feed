@@ -2,12 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <atom:link href="https://www.seequent.com/products-solutions/plaxis/" type="application/rss+xml"/>
-    <title>PLAXIS News Feed</title>
+    <title>PLAXIS Informative Articles Feed</title>
     <link>https://www.seequent.com/products-solutions/plaxis/</link>
-    <description>Informing on the latest of PLAXIS</description>
+    <description>Informing on the latest PLAXIS Informative Articles</description>
     <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Mon, 03 Mar 2025 14:54:11 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 13:38:09 +0100</lastBuildDate>
     <item>
       <title>Practical Example: Tunnel support analysis for a 250 m-deep tunnel in weak rock</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0040592]]></link>
@@ -16,11 +16,25 @@
       <pubDate>Mon, 03 Feb 2025 12:20:00 +0100</pubDate>
     </item>
     <item>
+      <title>Asymmetric moment-axial force interaction for elastoplastic plates and embedded beams</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0043683]]></link>
+      <description>This new feature in PLAXIS 2D 2024.2 allows to add interaction diagrams for axial force and bending moment.</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0043683]]></guid>
+      <pubDate>Mon, 30 Dec 2024 13:10:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Finite element modelling of a tailings dam using the Clay and Sand Model</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article&sysparm_article=KB0042975]]></link>
       <description>Read this paper by A. Laera et al. about the new Clay and Sand Model in PLAXIS to capture flow liquefaction</description>
       <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article&sysparm_article=KB0042975]]></guid>
       <pubDate>Wed, 06 Nov 2024 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Practicle Example: 3D Analysis of a Composite Support System for a Horse-shoe Shaped Tunnel</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0041964]]></link>
+      <description>A practical example using PLAXIS 3D for a D-shaped hydro tunnel</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0041964]]></guid>
+      <pubDate>Fri, 20 Sep 2024 15:40:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
