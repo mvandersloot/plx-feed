@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="https://www.seequent.com/products-solutions/plaxis-le/" type="application/rss+xml"/>
+    <title>PLAXIS LE Events Feed</title>
+    <link>https://www.seequent.com/products-solutions/plaxis-le/</link>
+    <description>Informing on the latest PLAXIS LE Events</description>
+    <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <lastBuildDate>Tue, 04 Mar 2025 13:38:09 +0100</lastBuildDate>
+    <item>
+      <title>GeoStudio Workshop: 2D+3D Slope Stability and Groundwater Flow Analysis | April 7-9 2025 | Denver USA</title>
+      <link>https://events.seequent.com/denveruspublicgeostudioworkshop-april-2025</link>
+      <description>Register until March 24 2025 and join us for this 3-day training which will provide you with the fundamental skills for conducting comprehensive slope stability and groundwater flow analysis</description>
+      <guid><![CDATA[https://events.seequent.com/denveruspublicgeostudioworkshop-april-2025]]></guid>
+      <pubDate>Fri, 28 Feb 2025 09:00:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>

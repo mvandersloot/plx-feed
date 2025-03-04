@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="https://www.seequent.com/products-solutions/plaxis/" type="application/rss+xml"/>
+    <title>PLAXIS News Feed</title>
+    <link>https://www.seequent.com/products-solutions/plaxis/</link>
+    <description>Informing on the latest PLAXIS News</description>
+    <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <lastBuildDate>Tue, 04 Mar 2025 13:38:09 +0100</lastBuildDate>
+    <item>
+      <title>New release: PLAXIS 2024.2</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=9cf342a81bb706d4039521fcbc4bcbeb]]></link>
+      <description>This latest PLAXIS release includes two new user defined materials models to enhance tailings dams and design of tunnels in swelling rocks</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=9cf342a81bb706d4039521fcbc4bcbeb]]></guid>
+      <pubDate>Sat, 15 Feb 2025 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Advanced technology benefits Melbourne commuters. Cuts project costs by $16m</title>
+      <link>https://www.seequent.com/advanced-technology-benefits-melbourne-commuters-and-cuts-project-costs-by-16m/</link>
+      <description>Better cross-functional working and a digital strategy helped optimise delivery of this $11bn mega project which will cut travel times reduce pollution and boost efficiency for residents and businesses.</description>
+      <guid><![CDATA[https://www.seequent.com/advanced-technology-benefits-melbourne-commuters-and-cuts-project-costs-by-16m/]]></guid>
+      <pubDate>Mon, 23 Dec 2024 05:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>PLAXIS 30 years: pave the way for a promising future</title>
+      <link>https://www.seequent.com/how-the-past-30-years-of-plaxis-history-pave-the-way-for-a-promising-future/</link>
+      <description>30 years of innovation at PLAXIS drove the geotechnical analysis industry.</description>
+      <guid><![CDATA[https://www.seequent.com/how-the-past-30-years-of-plaxis-history-pave-the-way-for-a-promising-future/]]></guid>
+      <pubDate>Sat, 23 Dec 2023 09:00:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
