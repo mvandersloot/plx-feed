@@ -7,14 +7,7 @@
     <description>Informing on the latest PLAXIS Informative Articles</description>
     <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 04 Mar 2025 13:38:09 +0100</lastBuildDate>
-    <item>
-      <title>Practical Example: Tunnel support analysis for a 250 m-deep tunnel in weak rock</title>
-      <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0040592]]></link>
-      <description>This articles shows a practical application using PLAXIS for the calculation of the tunnel deformation and the effectiveness of the proposed tunnel support. It has been inspired by an article from Hoek (1998).</description>
-      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0040592]]></guid>
-      <pubDate>Mon, 03 Feb 2025 12:20:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Mar 2025 13:49:21 +0100</lastBuildDate>
     <item>
       <title>Asymmetric moment-axial force interaction for elastoplastic plates and embedded beams</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0043683]]></link>
@@ -35,6 +28,13 @@
       <description>A practical example using PLAXIS 3D for a D-shaped hydro tunnel</description>
       <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0041964]]></guid>
       <pubDate>Fri, 20 Sep 2024 15:40:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Practical Example: Tunnel support analysis for a 250 m-deep tunnel in weak rock</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0040592]]></link>
+      <description>This articles shows a practical application using PLAXIS for the calculation of the tunnel deformation and the effectiveness of the proposed tunnel support. It has been inspired by an article from Hoek (1998).</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0040592]]></guid>
+      <pubDate>Mon, 08 Jul 2024 12:20:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
