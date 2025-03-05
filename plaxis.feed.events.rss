@@ -7,7 +7,7 @@
     <description>Informing on the latest PLAXIS Events</description>
     <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 04 Mar 2025 13:38:09 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 18:43:11 +0100</lastBuildDate>
     <item>
       <title>Standard Course on Computational Geotechnics (6-9 May 2025) The Netherlands</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=3dfbbfdc47c822d0557fd8de536d437e]]></link>
@@ -17,16 +17,16 @@
     </item>
     <item>
       <title>Coffee Corner: Swelling Rock in PLAXIS</title>
-      <link>https://event.on24.com/wcc/r/4842931/75E2056FEF5227772A1A2225481B0227??partnerref=InAppRSS</link>
+      <link>https://event.on24.com/wcc/r/4842931/75E2056FEF5227772A1A2225481B0227?partnerref=InAppNewsRSS</link>
       <description>Watch this on-demand Coffee Corner webinar for an introduction to the new and updated Swelling Rock model in PLAXIS</description>
-      <guid><![CDATA[https://event.on24.com/wcc/r/4842931/75E2056FEF5227772A1A2225481B0227??partnerref=InAppRSS]]></guid>
+      <guid><![CDATA[https://event.on24.com/wcc/r/4842931/75E2056FEF5227772A1A2225481B0227?partnerref=InAppNewsRSS]]></guid>
       <pubDate>Tue, 11 Feb 2025 17:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Coffee Corner: Understanding Undrained Soil Behaviour: Insights and Applications in PLAXIS</title>
-      <link>https://event.on24.com/wcc/r/4823739/667AAF32F34AD0794DCFD8DC3122A2ED?partnerref=InAppRSS</link>
+      <link>https://event.on24.com/wcc/r/4823739/667AAF32F34AD0794DCFD8DC3122A2ED?partnerref=InAppNewsRSS</link>
       <description>Undrained soil behavior plays a critical role in geotechnical engineering. In this webinar we show how this can be modelled in PLAXIS</description>
-      <guid><![CDATA[https://event.on24.com/wcc/r/4823739/667AAF32F34AD0794DCFD8DC3122A2ED?partnerref=InAppRSS]]></guid>
+      <guid><![CDATA[https://event.on24.com/wcc/r/4823739/667AAF32F34AD0794DCFD8DC3122A2ED?partnerref=InAppNewsRSS]]></guid>
       <pubDate>Tue, 14 Jan 2025 17:00:00 +0100</pubDate>
     </item>
   </channel>
