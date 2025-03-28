@@ -7,7 +7,14 @@
     <description>Informing on the latest PLAXIS Events</description>
     <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 06 Mar 2025 14:13:29 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 18:44:33 +0100</lastBuildDate>
+    <item>
+      <title>Coffee Corner: Boost Your Geotechnical Modelling Efficiency with PLAXIS Automation</title>
+      <link>https://event.on24.com/wcc/r/4906601/4CF9FD38000BCF93DE11856797A723C0?partnerref=InAppNewsRSSPlx</link>
+      <description>This Coffee Corner webinar on April 8 2025 will teach you how Python scripts can simplify and enhance your geotechnical modeling tasks in PLAXIS. We&apos;ll cover practical examples of automating geometry creation. Utilizing the SoilTest facility when calibrating material parameters and fine-tuning phase settings to improve calculation accuracy and efficiency.</description>
+      <guid><![CDATA[https://event.on24.com/wcc/r/4906601/4CF9FD38000BCF93DE11856797A723C0?partnerref=InAppNewsRSSPlx]]></guid>
+      <pubDate>Fri, 28 Mar 2025 17:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Standard Course on Computational Geotechnics (6-9 May 2025) The Netherlands</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=3dfbbfdc47c822d0557fd8de536d437e]]></link>
@@ -25,7 +32,7 @@
     <item>
       <title>Coffee Corner: Understanding Undrained Soil Behaviour: Insights and Applications in PLAXIS</title>
       <link>https://event.on24.com/wcc/r/4823739/667AAF32F34AD0794DCFD8DC3122A2ED?partnerref=InAppNewsRSSPlx</link>
-      <description>Undrained soil behavior plays a critical role in geotechnical engineering. In this webinar we show how this can be modelled in PLAXIS</description>
+      <description>Watch this on-demand Coffee Corner webinar: Undrained soil behavior plays a critical role in geotechnical engineering. In this webinar we show how this can be modelled in PLAXIS</description>
       <guid><![CDATA[https://event.on24.com/wcc/r/4823739/667AAF32F34AD0794DCFD8DC3122A2ED?partnerref=InAppNewsRSSPlx]]></guid>
       <pubDate>Tue, 14 Jan 2025 17:00:00 +0100</pubDate>
     </item>
