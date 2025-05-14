@@ -7,7 +7,14 @@
     <description>Informing on the latest PLAXIS News</description>
     <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 04 Mar 2025 13:38:09 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 15:01:15 +0100</lastBuildDate>
+    <item>
+      <title>New releases: PLAXIS 2024.3</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=d2ba37621bd96e107171ff7e034bcb8b]]></link>
+      <description>Upgrade to PLAXIS 2024.3 for enhanced 3D design approaches and improved project conversion. And with general availability of modal analysis for Monopile Designer. Ensure compliance with Eurocode and other standards and enjoy seamless integration of older projects with the latest features.</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=d2ba37621bd96e107171ff7e034bcb8b]]></guid>
+      <pubDate>Wed, 14 May 2025 14:02:00 +0100</pubDate>
+    </item>
     <item>
       <title>New release: PLAXIS 2024.2</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=9cf342a81bb706d4039521fcbc4bcbeb]]></link>
