@@ -7,7 +7,21 @@
     <description>Informing on the latest PLAXIS LE News</description>
     <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 04 Mar 2025 13:38:09 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 16:25:25 +0100</lastBuildDate>
+    <item>
+      <title>Adopting GeoStudio for PLAXIS LE users: A Resource Guide</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0045774]]></link>
+      <description>Everything you need to know on how to easily upgrade from PLAXIS LE to GeoStudio</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0045774]]></guid>
+      <pubDate>Mon, 16 Jun 2025 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>How to export your soil database from SoilVision Soils in PLAXIS LE</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0045867]]></link>
+      <description>Learn in this short video the two ways of exporting your soil database from SoilVision Soils when using PLAXIS LE: per material and for your entire database.</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0045867]]></guid>
+      <pubDate>Sun, 15 Jun 2025 09:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>The final update of PLAXIS LE and PLAXIS Designer: 21.08</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=a42e2c601b9e56907171ff7e034bcbdf]]></link>
