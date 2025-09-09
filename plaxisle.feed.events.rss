@@ -7,7 +7,14 @@
     <description>Informing on the latest PLAXIS LE Events</description>
     <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 06 Mar 2025 14:13:29 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 12:52:14 +0100</lastBuildDate>
+    <item>
+      <title>Webinar 1/3: Integrated design workflow for Porto Metro expansion using Leapfrog Works and PLAXIS | Sept 17</title>
+      <link>https://event.on24.com/wcc/r/5041881/8CACBB3E3319FC7DB2BC55BE68C61FDE?partnerref=InAppNewsRSSPlxLE</link>
+      <description>This webinar shows how Leapfrog Works helps geotechnical engineers move beyond static 2D sections. Learn how to build 3D subsurface models that reduce uncertainty and improve analysis. AYESA engineers present their workflow for the Porto Metro expansion including how borehole and geophysical data were used to create a Leapfrog model that directly informed PLAXIS 2D analyses for tunnel design.</description>
+      <guid><![CDATA[https://event.on24.com/wcc/r/5041881/8CACBB3E3319FC7DB2BC55BE68C61FDE?partnerref=InAppNewsRSSPlxLE]]></guid>
+      <pubDate>Tue, 09 Sep 2025 05:33:00 +0100</pubDate>
+    </item>
     <item>
       <title>Coffee Corner: Introduction to 3D Probabilistic Stability Analysis in GeoStudio</title>
       <link>https://event.on24.com/wcc/r/4875357/AAC44CE34A231B6614EB9D18CD399987?partnerref=InAppNewsRSSPlxLE</link>
