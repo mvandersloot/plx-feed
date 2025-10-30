@@ -7,7 +7,14 @@
     <description>Informing on the latest PLAXIS News</description>
     <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Wed, 14 May 2025 15:01:15 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 09:45:18 +0100</lastBuildDate>
+    <item>
+      <title>New release: PLAXIS 2025.1: Unleashing Next-Level Data Performance</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=b44d525587703210416dcbb7dabb357e]]></link>
+      <description>The latest PLAXIS release features a new database for calculation input and results. This upgrade offers faster output with improved data accessibility and more consistent results while enabling users to push modelling boundaries.</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=b44d525587703210416dcbb7dabb357e]]></guid>
+      <pubDate>Wed, 29 Oct 2025 11:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>New releases: PLAXIS 2024.3</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=d2ba37621bd96e107171ff7e034bcb8b]]></link>
