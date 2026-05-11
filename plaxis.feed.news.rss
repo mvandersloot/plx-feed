@@ -7,9 +7,9 @@
     <description>Informing on the latest PLAXIS News</description>
     <copyright>Copyright 2026, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Fri, 08 May 2026 17:27:03 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 09:31:36 +0100</lastBuildDate>
     <item>
-      <title>Unable to open existing projects in PLAXIS 2D/3D 2024.3 and PLAXIS 2D/3D 2025.1</title>
+      <title>Known Issue: Unable to open existing projects in PLAXIS 2D/3D 2024.3 and PLAXIS 2D/3D 2025.1</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0050202]]></link>
       <description>An issue has been identified where existing PLAXIS projects unexpectedly fail to open in PLAXIS 2D/3D 2024.3 and PLAXIS 2D/3D 2025.1.x. This is likely linked to a Windows Update KB5083631 rolled out. Current workaround includes starting PLAXIS as Administrator. We are working on a permanent solution to this issue.</description>
       <guid><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0050202]]></guid>
