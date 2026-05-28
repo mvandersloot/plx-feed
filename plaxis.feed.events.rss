@@ -5,9 +5,16 @@
     <title>PLAXIS Events Feed</title>
     <link>https://www.seequent.com/products-solutions/plaxis/</link>
     <description>Informing on the latest PLAXIS Events</description>
-    <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
+    <copyright>Copyright 2026, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Wed, 29 Oct 2025 18:40:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 14:21:57 +0100</lastBuildDate>
+    <item>
+      <title>PLAXIS Standard Course on Computational Geotechnics - Nov 2026 - Schiphol (NL)</title>
+      <link>https://events.seequent.com/plaxisstandardcoursenov2026</link>
+      <description>Build your PLAXIS fundamentals with hands on training in soil modelling finite element analysis and key applications. Ideal for new and early stage users looking to get productive fast. Join us November 23 to 26 2026 at Schiphol (The Netherlands)</description>
+      <guid><![CDATA[https://events.seequent.com/plaxisstandardcoursenov2026]]></guid>
+      <pubDate>Wed, 27 May 2026 11:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Coffee Corner: Understanding and Troubleshooting the Non-Convergence Issues in PLAXIS  (Nov 11 2025)</title>
       <link>https://event.on24.com/wcc/r/5116425/C86AEE12E26691D940BB0E41A76E9C76?partnerref=InAppNewsRSSPlx</link>
