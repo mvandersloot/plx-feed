@@ -5,9 +5,16 @@
     <title>PLAXIS LE News Feed</title>
     <link>https://www.seequent.com/products-solutions/plaxis-le/</link>
     <description>Informing on the latest PLAXIS LE News</description>
-    <copyright>Copyright 2025, Seequent, the Bentley Subsurface Company</copyright>
+    <copyright>Copyright 2026, Seequent, the Bentley Subsurface Company</copyright>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Mon, 16 Jun 2025 16:25:25 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:22:21 +0100</lastBuildDate>
+    <item>
+      <title>Student Access Ending Soon: PLAXIS LE/Designer via the Bentley Education Program Ends in October 2026</title>
+      <link><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=7f586b63476ff6147798d4fe536d43be]]></link>
+      <description>Read this blog to learn more about the upcoming end of student access to PLAXIS LE and PLAXIS Designer via the Bentley Education Program in October 2026.</description>
+      <guid><![CDATA[https://bentleysystems.service-now.com/community?id=community_blog&sys_id=7f586b63476ff6147798d4fe536d43be]]></guid>
+      <pubDate>Tue, 17 Mar 2026 09:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Adopting GeoStudio for PLAXIS LE users: A Resource Guide</title>
       <link><![CDATA[https://bentleysystems.service-now.com/community?id=kb_article_view&sysparm_article=KB0045774]]></link>
